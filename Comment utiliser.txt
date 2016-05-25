@@ -1,0 +1,35 @@
+##### Lancer le logiciel CAnnovation #####
+
+Prérequis :
+Vous devez avoir installé sur votre machine :
+ - Pyqt
+ - Panda 1.8.1
+
+Vous devez tout d'abord lancer :
+
+ - socketbase_server2.py
+
+Puis dans le dossier CAnnovation :
+
+ - main.py
+
+Puis entrer les coordonées de connexion, et cliquer sur "Ok"
+
+
+
+##### How to launch the software CAnnovation ##### 
+
+Requirements: 
+You must have installed on your machine: 
+  - PyQt 
+  - Panda 1.8.1 
+
+You need to first run: 
+
+  - socketbase_server2.py 
+
+Then in the CAnnovation folder: 
+
+  - main.py 
+
+Then enter the following details of connection and click "Ok"
